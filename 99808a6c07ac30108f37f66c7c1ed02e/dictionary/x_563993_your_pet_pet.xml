@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Pet" max_length="40" name="x_563993_your_pet_pet" sizeclass="4" type="collection">
+        <element label="Adoption Center" max_length="32" name="adoption_center" reference="x_563993_your_pet_adoption_center" type="reference"/>
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Bio" max_length="200" name="bio" type="string"/>
+        <element choice="1" label="Breed" max_length="40" name="breed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="German Shephered" sequence="0" value="german_shephered"/>
+                <element inactive_on_update="false" label="Labrador" sequence="1" value="labrador"/>
+                <element inactive_on_update="false" label="Mix Breed" sequence="2" value="mix_breed"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
+                <element inactive_on_update="false" label="Adopted" sequence="1" value="adopted"/>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="pending"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="adoption_center"/>
+        </index>
+    </element>
+</database>
