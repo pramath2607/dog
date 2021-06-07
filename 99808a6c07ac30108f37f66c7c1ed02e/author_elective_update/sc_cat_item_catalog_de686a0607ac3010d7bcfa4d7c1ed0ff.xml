@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="After Meeting, Update the status ">1e686a0607ac3010d7bcfa4d7c1ed0fd</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 13:26:57</sys_created_on>
+        <sys_id>de686a0607ac3010d7bcfa4d7c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.After Meeting, Update the status </sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_de686a0607ac3010d7bcfa4d7c1ed0ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 13:26:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>9dfc3a57dba073009df22f17d49619c1</instance_id>
+        <instance_name>dev79305</instance_name>
+        <name>sc_cat_item_catalog_de686a0607ac3010d7bcfa4d7c1ed0ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="After Meeting, Update the status ">1e686a0607ac3010d7bcfa4d7c1ed0fd</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-06 13:26:57</sys_created_on><sys_id>de686a0607ac3010d7bcfa4d7c1ed0ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.After Meeting, Update the status </sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sc_cat_item_catalog_de686a0607ac3010d7bcfa4d7c1ed0ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-06 13:26:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1967494585</payload_hash>
+        <record_name>Service Catalog.After Meeting, Update the status </record_name>
+        <reverted_from/>
+        <source>265845b507203010d7bcfa4d7c1ed0a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 13:26:57</sys_created_on>
+        <sys_id>5a68aa0607ac3010d7bcfa4d7c1ed002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179e1814c700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 13:26:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>9268aa062aac301008c2671da93dab02</update_guid>
+        <update_guid_history>9268aa062aac301008c2671da93dab02:-1967494585</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.After Meeting, Update the status ">16f8e20607ac3010d7bcfa4d7c1ed009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 13:29:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>750effec07714d298441168fc97e5c49</sys_id>
+        <sys_metadata>de686a0607ac3010d7bcfa4d7c1ed0ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.After Meeting, Update the status </sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent display_value="">1e686a0607ac3010d7bcfa4d7c1ed0fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_de686a0607ac3010d7bcfa4d7c1ed0ff</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_de686a0607ac3010d7bcfa4d7c1ed0ff">5a68aa0607ac3010d7bcfa4d7c1ed002</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 13:29:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

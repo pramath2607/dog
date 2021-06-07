@@ -3,5 +3,9 @@
         <element label="Contact" max_length="40" name="contact" type="phone_number_e164"/>
         <element label="Email" max_length="50" name="email" type="string"/>
         <element label="Name" max_length="50" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
     </element>
 </database>

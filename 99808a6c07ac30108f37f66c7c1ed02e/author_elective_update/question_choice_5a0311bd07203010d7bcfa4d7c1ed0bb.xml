@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>3</order>
+        <published_ref/>
+        <question display_value="Status">9a0311bd07203010d7bcfa4d7c1ed09d</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-05 12:35:29</sys_created_on>
+        <sys_id>5a0311bd07203010d7bcfa4d7c1ed0bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>question_choice_5a0311bd07203010d7bcfa4d7c1ed0bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-05 12:35:29</sys_updated_on>
+        <text>Pending</text>
+        <value>pending</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=5a0311bd07203010d7bcfa4d7c1ed0bb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>9dfc3a57dba073009df22f17d49619c1</instance_id>
+        <instance_name>dev79305</instance_name>
+        <name>question_choice_5a0311bd07203010d7bcfa4d7c1ed0bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>3</order><published_ref/><question display_value="Status">9a0311bd07203010d7bcfa4d7c1ed09d</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-05 12:35:29</sys_created_on><sys_id>5a0311bd07203010d7bcfa4d7c1ed0bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pending</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>question_choice_5a0311bd07203010d7bcfa4d7c1ed0bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-05 12:35:29</sys_updated_on><text>Pending</text><value>pending</value></question_choice><fx_price action="delete_multiple" query="id=5a0311bd07203010d7bcfa4d7c1ed0bb"/></record_update>]]></payload>
+        <payload_hash>-744321026</payload_hash>
+        <record_name>Pending</record_name>
+        <reverted_from/>
+        <source>265845b507203010d7bcfa4d7c1ed0a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-05 12:35:29</sys_created_on>
+        <sys_id>160311bd07203010d7bcfa4d7c1ed0bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179dc2bced20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-05 12:35:29</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>5e0311bdc2203010a099be7e4184f6bc</update_guid>
+        <update_guid_history>5e0311bdc2203010a099be7e4184f6bc:-744321026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pending">590411fd07203010d7bcfa4d7c1ed078</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-05 12:39:46</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>394de5a5ab6c45f89bc604416c648c90</sys_id>
+        <sys_metadata>5a0311bd07203010d7bcfa4d7c1ed0bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>question_choice_5a0311bd07203010d7bcfa4d7c1ed0bb</sys_update_name>
+        <sys_update_version display_value="question_choice_5a0311bd07203010d7bcfa4d7c1ed0bb">160311bd07203010d7bcfa4d7c1ed0bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-05 12:39:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

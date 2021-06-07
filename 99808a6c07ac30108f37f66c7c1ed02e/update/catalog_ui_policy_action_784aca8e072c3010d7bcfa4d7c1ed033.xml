@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Adopting User Registration">61039d7d07203010d7bcfa4d7c1ed063</catalog_item>
+        <catalog_variable>IO:32e586ca072c3010d7bcfa4d7c1ed007</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 11:15:31</sys_created_on>
+        <sys_id>784aca8e072c3010d7bcfa4d7c1ed033</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choose_date_time_for_meeting</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_784aca8e072c3010d7bcfa4d7c1ed033</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 11:15:31</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Date/Time visible only when schedule meeting is true">71e9c68e072c3010d7bcfa4d7c1ed004</ui_policy>
+        <variable>choose_date_time_for_meeting</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
