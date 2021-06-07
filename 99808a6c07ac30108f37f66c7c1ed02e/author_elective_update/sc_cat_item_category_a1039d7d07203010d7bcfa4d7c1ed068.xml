@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Adoption User Registration">61039d7d07203010d7bcfa4d7c1ed063</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-05 12:35:25</sys_created_on>
+        <sys_id>a1039d7d07203010d7bcfa4d7c1ed068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Adoption User Registration</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sc_cat_item_category_a1039d7d07203010d7bcfa4d7c1ed068</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-05 12:35:25</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>9dfc3a57dba073009df22f17d49619c1</instance_id>
+        <instance_name>dev79305</instance_name>
+        <name>sc_cat_item_category_a1039d7d07203010d7bcfa4d7c1ed068</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Adoption User Registration">61039d7d07203010d7bcfa4d7c1ed063</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-05 12:35:25</sys_created_on><sys_id>a1039d7d07203010d7bcfa4d7c1ed068</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Adoption User Registration</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sc_cat_item_category_a1039d7d07203010d7bcfa4d7c1ed068</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-05 12:35:25</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-927729727</payload_hash>
+        <record_name>Can We Help You?.Adoption User Registration</record_name>
+        <reverted_from/>
+        <source>265845b507203010d7bcfa4d7c1ed0a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-05 12:35:25</sys_created_on>
+        <sys_id>2103dd7d07203010d7bcfa4d7c1ed0f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179dc2bc07e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-05 12:35:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>69039d7dee203010665fab29ec224d6a</update_guid>
+        <update_guid_history>69039d7dee203010665fab29ec224d6a:-927729727</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Adoption User Registration">9675aa9207603010d7bcfa4d7c1ed0c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 07:52:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0842bae45d1c4b9d81fa76f4bcba2dd9</sys_id>
+        <sys_metadata>a1039d7d07203010d7bcfa4d7c1ed068</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Adoption User Registration</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a1039d7d07203010d7bcfa4d7c1ed068</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a1039d7d07203010d7bcfa4d7c1ed068">2103dd7d07203010d7bcfa4d7c1ed0f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 07:52:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

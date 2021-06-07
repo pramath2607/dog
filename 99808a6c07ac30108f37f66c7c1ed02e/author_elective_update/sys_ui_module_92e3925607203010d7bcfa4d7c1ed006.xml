@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="After adoption, update the status of Pet">82e3925607203010d7bcfa4d7c1ed003</application>
+        <filter/>
+        <name>After adoption, update the status of Pet and Users</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_563993_your_pet.after_adoption_update_the_status_of_pet_and_user_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 06:35:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92e3925607203010d7bcfa4d7c1ed006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>After adoption, update the status of Pet and Users</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_ui_module_92e3925607203010d7bcfa4d7c1ed006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 06:35:52</sys_updated_on>
+        <table>x_563993_your_pet_after_adoption_update_the_status_of_pet_and_user</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>9dfc3a57dba073009df22f17d49619c1</instance_id>
+        <instance_name>dev79305</instance_name>
+        <name>sys_ui_module_92e3925607203010d7bcfa4d7c1ed006</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="After adoption, update the status of Pet">82e3925607203010d7bcfa4d7c1ed003</application><filter/><name>After adoption, update the status of Pet and Users</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_563993_your_pet.after_adoption_update_the_status_of_pet_and_user_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-07 06:35:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>92e3925607203010d7bcfa4d7c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_name>After adoption, update the status of Pet and Users</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sys_ui_module_92e3925607203010d7bcfa4d7c1ed006</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-07 06:35:52</sys_updated_on><table>x_563993_your_pet_after_adoption_update_the_status_of_pet_and_user</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>534550852</payload_hash>
+        <record_name>After adoption, update the status of Pet and Users</record_name>
+        <reverted_from/>
+        <source>265845b507203010d7bcfa4d7c1ed0a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 06:35:52</sys_created_on>
+        <sys_id>1ee3925607203010d7bcfa4d7c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179e52f4a850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 06:35:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>56e3925603203010d981871b462ae308</update_guid>
+        <update_guid_history>56e3925603203010d981871b462ae308:534550852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 06:43:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>984fc570a0fd4297a122f690dc55f729</sys_id>
+        <sys_metadata>92e3925607203010d7bcfa4d7c1ed006</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>After adoption, update the status of Pet and Users</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sys_ui_module_92e3925607203010d7bcfa4d7c1ed006</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_92e3925607203010d7bcfa4d7c1ed006">1ee3925607203010d7bcfa4d7c1ed008</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 06:43:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

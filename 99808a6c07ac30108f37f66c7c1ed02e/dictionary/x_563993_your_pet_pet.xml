@@ -17,7 +17,6 @@
             <choice>
                 <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
                 <element inactive_on_update="false" label="Adopted" sequence="1" value="adopted"/>
-                <element inactive_on_update="false" label="Pending" sequence="2" value="pending"/>
             </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>

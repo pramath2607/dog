@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_563993_your_pet_adopting_user" label="After adoption, update the status of Pet and User" max_length="40" name="x_563993_your_pet_after_adoption_update_the_status_of_pet_and_user" type="collection"/>
-</database>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Adopting User Registration">61039d7d07203010d7bcfa4d7c1ed063</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:32e586ca072c3010d7bcfa4d7c1ed007</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
