@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Change dog adoption status</description>
+        <internal_name>change_dog_adoption_status</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Change dog adoption status</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 12:46:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change dog adoption status</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_hub_flow_5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 12:46:04</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=5f0f1a4e076c3010d7bcfa4d7c1ed058"/>
+    <sys_variable_value action="DELETE" query="document_key=5f0f1a4e076c3010d7bcfa4d7c1ed058"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=5f0f1a4e076c3010d7bcfa4d7c1ed058^sys_idNOT IN1f0f928e076c3010d7bcfa4d7c1ed0cb"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>5f0f1a4e076c3010d7bcfa4d7c1ed058</id>
+        <name>Change dog adoption status</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 12:46:04</sys_created_on>
+        <sys_id>1f0f928e076c3010d7bcfa4d7c1ed0cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 12:46:04</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>9dfc3a57dba073009df22f17d49619c1</instance_id>
+        <instance_name>dev79305</instance_name>
+        <name>sys_hub_flow_5f0f1a4e076c3010d7bcfa4d7c1ed058</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>Change dog adoption status</description><internal_name>change_dog_adoption_status</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Change dog adoption status</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-06 12:46:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Change dog adoption status</sys_name><sys_overrides/><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sys_hub_flow_5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-06 12:46:04</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=5f0f1a4e076c3010d7bcfa4d7c1ed058"/><sys_variable_value action="delete_multiple" query="document_key=5f0f1a4e076c3010d7bcfa4d7c1ed058"/><sys_flow_cat_variable_model action="delete_multiple" query="id=5f0f1a4e076c3010d7bcfa4d7c1ed058^sys_idNOT IN1f0f928e076c3010d7bcfa4d7c1ed0cb"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>5f0f1a4e076c3010d7bcfa4d7c1ed058</id><name>Change dog adoption status</name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-06 12:46:04</sys_created_on><sys_id>1f0f928e076c3010d7bcfa4d7c1ed0cb</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-06 12:46:04</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>-194487185</payload_hash>
+        <record_name>Change dog adoption status</record_name>
+        <reverted_from/>
+        <source>265845b507203010d7bcfa4d7c1ed0a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 12:46:04</sys_created_on>
+        <sys_id>d70f928e076c3010d7bcfa4d7c1ed0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179e15bde300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 12:46:04</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>130f928e356c301027b599447551cdcf</update_guid>
+        <update_guid_history>130f928e356c301027b599447551cdcf:-194487185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 08:02:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>ae5dc9dd7f9c48ffac3bf5f9a3da73e9</sys_id>
+        <sys_metadata>5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change dog adoption status</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_5f0f1a4e076c3010d7bcfa4d7c1ed058</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_5f0f1a4e076c3010d7bcfa4d7c1ed058">d70f928e076c3010d7bcfa4d7c1ed0cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 08:02:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
