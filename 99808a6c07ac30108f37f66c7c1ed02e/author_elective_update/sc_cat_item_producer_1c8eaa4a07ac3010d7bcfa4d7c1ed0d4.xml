@@ -116,7 +116,7 @@
         <update_guid_history>077096927c203010fce104e9be6927e1:1568589057,908eaa4aecac3010b9fd6acc55d591fb:-1901890196,5c8eaa4a34ac3010438668edbc75c6de:640731781</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="After meeting, update the status of user and pet">9b70d69207203010d7bcfa4d7c1ed00a</sys_audit_delete>
+        <sys_audit_delete display_value="">9b70d69207203010d7bcfa4d7c1ed00a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-07 06:20:56</sys_created_on>

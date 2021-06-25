@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="user_activation_request" label="User Acti Req 191150" max_length="40" name="u_user_acti_req_191150" type="collection"/>
+</database>

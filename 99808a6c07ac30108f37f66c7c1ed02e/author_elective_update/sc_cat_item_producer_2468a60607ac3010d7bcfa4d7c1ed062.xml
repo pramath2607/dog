@@ -116,7 +116,7 @@
         <update_guid_history>722daa0a9eac30105050b8d44ebd143e:1974427360,a4686e06d7ac3010291100e6ac77f20d:709383469,64682e06e2ac3010adb583a1ae9e1afc:-888371340</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="After Meeting, Update the status ">4f2daa0a07ac3010d7bcfa4d7c1ed06a</sys_audit_delete>
+        <sys_audit_delete display_value="">4f2daa0a07ac3010d7bcfa4d7c1ed06a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-06 13:47:46</sys_created_on>

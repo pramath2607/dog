@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user_registration_request" label="User Reg Req 191150" max_length="40" name="u_user_reg_req_191150" type="collection"/>
+</database>

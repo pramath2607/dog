@@ -41,7 +41,7 @@
         <update_guid_history>9268aa062aac301008c2671da93dab02:-1967494585</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.After Meeting, Update the status ">16f8e20607ac3010d7bcfa4d7c1ed009</sys_audit_delete>
+        <sys_audit_delete display_value="">16f8e20607ac3010d7bcfa4d7c1ed009</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-06 13:29:25</sys_created_on>

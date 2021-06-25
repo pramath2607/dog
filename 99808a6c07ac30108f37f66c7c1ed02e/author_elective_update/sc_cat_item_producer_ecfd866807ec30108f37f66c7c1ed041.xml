@@ -116,7 +116,7 @@
         <update_guid_history>4cf3a430c2a470103cfd6fe3c01d1e22:1119446949,3d1eca6823ec30108230ceedc2e5cc91:-1600559639,f4fd4a687eec3010dab469c21db374a8:1119446949,24fd86687eec301024dfa3c2c91dc144:77948104</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Pet Registration">d91d24f407a470108f37f66c7c1ed0da</sys_audit_delete>
+        <sys_audit_delete display_value="">d91d24f407a470108f37f66c7c1ed0da</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-02 07:15:44</sys_created_on>
@@ -126,7 +126,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Pet Registration</sys_name>
         <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
-        <sys_parent display_value="Pet">5ae1caec07ac30108f37f66c7c1ed038</sys_parent>
+        <sys_parent display_value="">5ae1caec07ac30108f37f66c7c1ed038</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
         <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>

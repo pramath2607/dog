@@ -41,7 +41,7 @@
         <update_guid_history>38f21d7de9203010ba509d6b51bb3024:-60863442</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Adoption User Registration">9423d1bd07203010d7bcfa4d7c1ed0f5</sys_audit_delete>
+        <sys_audit_delete display_value="">9423d1bd07203010d7bcfa4d7c1ed0f5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-05 12:35:53</sys_created_on>

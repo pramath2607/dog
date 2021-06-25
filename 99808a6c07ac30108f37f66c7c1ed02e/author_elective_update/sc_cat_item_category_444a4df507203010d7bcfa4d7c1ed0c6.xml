@@ -41,7 +41,7 @@
         <update_guid_history>8c4a4df5702030109efd49312e9a24c9:1438275501</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.User Registration">c3b19d3d07203010d7bcfa4d7c1ed058</sys_audit_delete>
+        <sys_audit_delete display_value="">c3b19d3d07203010d7bcfa4d7c1ed058</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-05 12:29:47</sys_created_on>

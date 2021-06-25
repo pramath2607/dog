@@ -46,7 +46,7 @@
         <update_guid_history>5e0311bdc2203010a099be7e4184f6bc:-744321026</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Pending">590411fd07203010d7bcfa4d7c1ed078</sys_audit_delete>
+        <sys_audit_delete display_value="">590411fd07203010d7bcfa4d7c1ed078</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-05 12:39:46</sys_created_on>
