@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <auto_resolution_enabled>false</auto_resolution_enabled>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>true</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"3ed8e0f03d3f41b6af55a25c12630ff7":{"id":"3ed8e0f03d3f41b6af55a25c12630ff7","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"0a583f8c7fd941d4bd396d6016f7e559":{"id":"0a583f8c7fd941d4bd396d6016f7e559","stepType":"CustomOutput","name":"","generateDataFunction":"","messageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"}},"f7c2bb9ac46643c9a9ddb9cd6236b209":{"id":"f7c2bb9ac46643c9a9ddb9cd6236b209","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"9643ab374eee486c8dd9c58826655794","edgeType":"Edge","source":"3ed8e0f03d3f41b6af55a25c12630ff7","target":"0a583f8c7fd941d4bd396d6016f7e559","sourcePort":"","targetPort":""},{"id":"e152246c1aad4b138b125f10fe210db2","edgeType":"Edge","source":"0a583f8c7fd941d4bd396d6016f7e559","target":"f7c2bb9ac46643c9a9ddb9cd6236b209","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases/>
+        <library>true</library>
+        <live_agent>false</live_agent>
+        <name>pet adoption</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:14:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3f8751e02f45301042b05d8b2799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet adoption</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_cb_topic_3f8751e02f45301042b05d8b2799b631</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:14:12</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>CUSTOM_OUTPUT</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=3f8751e02f45301042b05d8b2799b631"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>4d968502db1f8c5091232f17d49619ca</instance_id>
+        <instance_name>dev102019</instance_name>
+        <name>sys_cb_topic_3f8751e02f45301042b05d8b2799b631</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><applicability_mode>query</applicability_mode><auto_resolution_enabled>false</auto_resolution_enabled><category/><channels/><connect_queue/><description/><flexible_conversation_switching>true</flexible_conversation_switching><graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"3ed8e0f03d3f41b6af55a25c12630ff7":{"id":"3ed8e0f03d3f41b6af55a25c12630ff7","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"0a583f8c7fd941d4bd396d6016f7e559":{"id":"0a583f8c7fd941d4bd396d6016f7e559","stepType":"CustomOutput","name":"","generateDataFunction":"","messageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"}},"f7c2bb9ac46643c9a9ddb9cd6236b209":{"id":"f7c2bb9ac46643c9a9ddb9cd6236b209","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"9643ab374eee486c8dd9c58826655794","edgeType":"Edge","source":"3ed8e0f03d3f41b6af55a25c12630ff7","target":"0a583f8c7fd941d4bd396d6016f7e559","sourcePort":"","targetPort":""},{"id":"e152246c1aad4b138b125f10fe210db2","edgeType":"Edge","source":"0a583f8c7fd941d4bd396d6016f7e559","target":"f7c2bb9ac46643c9a9ddb9cd6236b209","sourcePort":"","targetPort":""}]}}}</graph><key_phrases/><library>true</library><live_agent>false</live_agent><name>pet adoption</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><roles/><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-26 12:14:12</sys_created_on><sys_domain>global</sys_domain><sys_id>3f8751e02f45301042b05d8b2799b631</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pet adoption</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sys_cb_topic_3f8751e02f45301042b05d8b2799b631</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-26 12:14:12</sys_updated_on><triggerable_by_notification>false</triggerable_by_notification><type>CUSTOM_OUTPUT</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=3f8751e02f45301042b05d8b2799b631"/></record_update>]]></payload>
+        <payload_hash>-948960013</payload_hash>
+        <record_name>pet adoption</record_name>
+        <reverted_from/>
+        <source>7b9d7c282fc1301042b05d8b2799b633</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:14:13</sys_created_on>
+        <sys_id>3f871da42f45301042b05d8b2799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a483de2db0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:14:13</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>77871da4d6453010d107578e45660a51</update_guid>
+        <update_guid_history>77871da4d6453010d107578e45660a51:-948960013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:14:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>398883ce9bf349cc8a4187974ddc6944</sys_id>
+        <sys_metadata>3f8751e02f45301042b05d8b2799b631</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet adoption</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_3f8751e02f45301042b05d8b2799b631</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_3f8751e02f45301042b05d8b2799b631">3f871da42f45301042b05d8b2799b651</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:14:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

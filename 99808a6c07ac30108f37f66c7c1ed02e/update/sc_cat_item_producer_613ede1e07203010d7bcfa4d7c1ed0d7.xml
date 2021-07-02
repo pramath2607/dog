@@ -7,7 +7,7 @@
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
-        <checked_out>true</checked_out>
+        <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -66,7 +66,7 @@
         <state>published</state>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-06-07 07:20:53</sys_created_on>
+        <sys_created_on>2021-06-26 16:30:56</sys_created_on>
         <sys_id>613ede1e07203010d7bcfa4d7c1ed0d7</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Adopting User Registration</sys_name>
@@ -74,8 +74,8 @@
         <sys_policy/>
         <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
         <sys_update_name>sc_cat_item_producer_613ede1e07203010d7bcfa4d7c1ed0d7</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-25 09:08:16</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-26 16:31:38</sys_updated_on>
         <table_name>x_563993_your_pet_adopting_user</table_name>
         <template/>
         <template_manager_roles/>

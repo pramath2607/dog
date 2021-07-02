@@ -142,7 +142,7 @@
         <update_guid_history>a5836b0c1041301035528206352b869a:73150310,d7f06348244130108b5f574a4afb0318:906360342,43f063481e413010867913d2cb98f411:-1064472545,cdd0af0860413010f9fcf384c3a9d9e9:-1936640881,f8d0af08c5413010dde73373d97999e2:-1522164490,e9b02f08aa4130104c945abe60f66d39:1061641478</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Adopt Your Pet">85e5e7002f813010df083996f699b60c</sys_audit_delete>
+        <sys_audit_delete display_value="">85e5e7002f813010df083996f699b60c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-25 09:19:07</sys_created_on>

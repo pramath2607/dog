@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <auto_resolution_enabled>false</auto_resolution_enabled>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>true</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"93574ae50269479bba76bdd12505b782":{"id":"93574ae50269479bba76bdd12505b782","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"c08fea5687214009bd60d4a420135d3a":{"id":"c08fea5687214009bd60d4a420135d3a","stepType":"CustomInput","name":"","generateDataFunction":"","messageTranscriptFunction":"","inputResponseHandlerFunction":"","inputResponseMessageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"},"skippable":{"value":"","mode":"query"}},"ad35e44eb316456889f8d571dee41085":{"id":"ad35e44eb316456889f8d571dee41085","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"8e84a037804443d08ee3400d9c12f5bb","edgeType":"Edge","source":"93574ae50269479bba76bdd12505b782","target":"c08fea5687214009bd60d4a420135d3a","sourcePort":"","targetPort":""},{"id":"f7713ef6399542b084de382234a966f5","edgeType":"Edge","source":"c08fea5687214009bd60d4a420135d3a","target":"ad35e44eb316456889f8d571dee41085","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases/>
+        <library>true</library>
+        <live_agent>false</live_agent>
+        <name>pet adoption</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:12:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f31715e02f45301042b05d8b2799b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet adoption</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_cb_topic_f31715e02f45301042b05d8b2799b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:12:18</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>CUSTOM_INPUT</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=f31715e02f45301042b05d8b2799b671"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>4d968502db1f8c5091232f17d49619ca</instance_id>
+        <instance_name>dev102019</instance_name>
+        <name>sys_cb_topic_f31715e02f45301042b05d8b2799b671</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><applicability_mode>query</applicability_mode><auto_resolution_enabled>false</auto_resolution_enabled><category/><channels/><connect_queue/><description/><flexible_conversation_switching>true</flexible_conversation_switching><graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"93574ae50269479bba76bdd12505b782":{"id":"93574ae50269479bba76bdd12505b782","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"c08fea5687214009bd60d4a420135d3a":{"id":"c08fea5687214009bd60d4a420135d3a","stepType":"CustomInput","name":"","generateDataFunction":"","messageTranscriptFunction":"","inputResponseHandlerFunction":"","inputResponseMessageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"},"skippable":{"value":"","mode":"query"}},"ad35e44eb316456889f8d571dee41085":{"id":"ad35e44eb316456889f8d571dee41085","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"8e84a037804443d08ee3400d9c12f5bb","edgeType":"Edge","source":"93574ae50269479bba76bdd12505b782","target":"c08fea5687214009bd60d4a420135d3a","sourcePort":"","targetPort":""},{"id":"f7713ef6399542b084de382234a966f5","edgeType":"Edge","source":"c08fea5687214009bd60d4a420135d3a","target":"ad35e44eb316456889f8d571dee41085","sourcePort":"","targetPort":""}]}}}</graph><key_phrases/><library>true</library><live_agent>false</live_agent><name>pet adoption</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><roles/><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-26 12:12:18</sys_created_on><sys_domain>global</sys_domain><sys_id>f31715e02f45301042b05d8b2799b671</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pet adoption</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sys_cb_topic_f31715e02f45301042b05d8b2799b671</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-26 12:12:18</sys_updated_on><triggerable_by_notification>false</triggerable_by_notification><type>CUSTOM_INPUT</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=f31715e02f45301042b05d8b2799b671"/></record_update>]]></payload>
+        <payload_hash>-67375083</payload_hash>
+        <record_name>pet adoption</record_name>
+        <reverted_from/>
+        <source>7b9d7c282fc1301042b05d8b2799b633</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:12:18</sys_created_on>
+        <sys_id>3b17d5a42f45301042b05d8b2799b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a483c23100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:12:18</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>7317d5a4b245301081eca09279ba9529</update_guid>
+        <update_guid_history>7317d5a4b245301081eca09279ba9529:-67375083</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 12:12:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>00beed8360e2447084344cd29ba6e710</sys_id>
+        <sys_metadata>f31715e02f45301042b05d8b2799b671</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet adoption</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_f31715e02f45301042b05d8b2799b671</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_f31715e02f45301042b05d8b2799b671">3b17d5a42f45301042b05d8b2799b629</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 12:12:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

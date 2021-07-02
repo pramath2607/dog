@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Adopting User" max_length="40" name="x_563993_your_pet_adopting_user" sizeclass="1" type="collection">
+    <element label="Adopting User" max_length="40" name="x_563993_your_pet_adopting_user" sizeclass="7" type="collection">
         <element label="Address" max_length="100" name="address" type="string"/>
         <element label="Age" max_length="40" name="age" type="integer"/>
         <element label="Allowed" max_length="40" name="allowed" type="boolean"/>

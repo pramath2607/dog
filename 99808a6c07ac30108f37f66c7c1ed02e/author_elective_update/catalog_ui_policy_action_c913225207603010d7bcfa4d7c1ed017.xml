@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Adopting User Registration">613ede1e07203010d7bcfa4d7c1ed0d7</catalog_item>
+        <catalog_variable>IO:ce3e5e5e07203010d7bcfa4d7c1ed079</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 07:42:22</sys_created_on>
+        <sys_id>c913225207603010d7bcfa4d7c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choose_time_and_date_to_schedule_meeting</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c913225207603010d7bcfa4d7c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 07:42:22</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Choose Date/Time visible only when schedule meeting is true">cc92aa1207603010d7bcfa4d7c1ed095</ui_policy>
+        <variable>choose_time_and_date_to_schedule_meeting</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>4d968502db1f8c5091232f17d49619ca</instance_id>
+        <instance_name>dev102019</instance_name>
+        <name>catalog_ui_policy_action_c913225207603010d7bcfa4d7c1ed017</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Adopting User Registration">613ede1e07203010d7bcfa4d7c1ed0d7</catalog_item>
+        <catalog_variable>IO:ce3e5e5e07203010d7bcfa4d7c1ed079</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 07:42:22</sys_created_on>
+        <sys_id>c913225207603010d7bcfa4d7c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choose_time_and_date_to_schedule_meeting</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c913225207603010d7bcfa4d7c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 07:42:22</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Choose Date/Time visible only when schedule meeting is true">cc92aa1207603010d7bcfa4d7c1ed095</ui_policy>
+        <variable>choose_time_and_date_to_schedule_meeting</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>]]></payload>
+        <payload_hash>-1582477593</payload_hash>
+        <record_name>choose_time_and_date_to_schedule_meeting</record_name>
+        <reverted_from/>
+        <source>783d34e42fc1301042b05d8b2799b643</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 10:19:12</sys_created_on>
+        <sys_id>4b3df4e42fc1301042b05d8b2799b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a47d4957f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 10:19:12</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>0b3df4e446c13010a19ee93bb3a7e79b</update_guid>
+        <update_guid_history>0b3df4e446c13010a19ee93bb3a7e79b:-1582477593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="choose_time_and_date_to_schedule_meeting">77b112602f09301042b05d8b2799b628</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-06-26 16:28:26</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>7797de02a2ed40109196a475828db440</sys_id>
+        <sys_metadata>c913225207603010d7bcfa4d7c1ed017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choose_time_and_date_to_schedule_meeting</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_c913225207603010d7bcfa4d7c1ed017</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_c913225207603010d7bcfa4d7c1ed017">4b3df4e42fc1301042b05d8b2799b69b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-26 16:28:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

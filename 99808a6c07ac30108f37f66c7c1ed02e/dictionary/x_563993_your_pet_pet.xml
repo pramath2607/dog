@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Pet" max_length="40" name="x_563993_your_pet_pet" sizeclass="1" type="collection">
+    <element label="Pet" max_length="40" name="x_563993_your_pet_pet" sizeclass="9" type="collection">
         <element label="Adoption Center" max_length="32" name="adoption_center" reference="x_563993_your_pet_adoption_center" type="reference"/>
         <element label="Age" max_length="40" name="age" type="integer"/>
         <element label="Bio" max_length="200" name="bio" type="string"/>

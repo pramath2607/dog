@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <auto_resolution_enabled>false</auto_resolution_enabled>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "graph_api_version": "1.0.31",
+  "goals": {
+    "primary": {
+      "id": "primary",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "378fc5fe992b41eaa580871a90ffc3e5": {
+          "id": "378fc5fe992b41eaa580871a90ffc3e5",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "hello "
+                  },
+                  {
+                    "type": "datapill",
+                    "dataPill": {
+                      "value": "{{vaInputs.user.name}}",
+                      "displayValue": "Input Variables➛User➛Name"
+                    },
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          }
+        },
+        "945a3aca687c46638ee49e2fc51dc724": {
+          "id": "945a3aca687c46638ee49e2fc51dc724",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "2b739c6ac4c9422a993f2c78fd2521d9": {
+          "stepType": "ChoicePrompt",
+          "name": "How may we help you?",
+          "prompt": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "How may we help you?"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "skippable": {
+            "value": "",
+            "mode": "query"
+          },
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "311988feee9944e4a930b0b4b27fb591",
+          "id": "2b739c6ac4c9422a993f2c78fd2521d9",
+          "withNluUserInput": false,
+          "skipIfFulfilled": false
+        },
+        "543fdfdbadf647f79a2bd3cff96a10f9": {
+          "id": "543fdfdbadf647f79a2bd3cff96a10f9",
+          "stepType": "Decision",
+          "name": "Decision"
+        },
+        "f2a2ba84902640bfa1199657d1763d91": {
+          "id": "f2a2ba84902640bfa1199657d1763d91",
+          "stepType": "TextOutput",
+          "name": "Click the link below to adopt a pet",
+          "secure": false,
+          "value": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Click the link below to adopt a pet"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        },
+        "d5b0177e61ce4348a281b855a402bf97": {
+          "id": "d5b0177e61ce4348a281b855a402bf97",
+          "stepType": "LinkOutput",
+          "name": "Adopter registration",
+          "url": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "https://dev102019.service-now.com/petadoption?id=sc_cat_item&amp;sys_id=613ede1e07203010d7bcfa4d7c1ed0d7&amp;sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "label": {
+            "value": "",
+            "mode": "simple"
+          },
+          "header": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Adopter registration"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "linkType": "single",
+          "introMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "listOfLinks": ""
+        },
+        "398370a03c9744a4b191f3dae67bc28a": {
+          "id": "398370a03c9744a4b191f3dae67bc28a",
+          "stepType": "TextOutput",
+          "name": "Click the link to register",
+          "secure": false,
+          "value": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Click the link to register"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        },
+        "13ab62bbd9ca4208af46ed138aca3fdb": {
+          "id": "13ab62bbd9ca4208af46ed138aca3fdb",
+          "stepType": "LinkOutput",
+          "name": "Pet registration",
+          "url": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "https://dev102019.service-now.com/petadoption?id=sc_cat_item&amp;sys_id=054fe43807a470108f37f66c7c1ed03f"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "label": {
+            "value": "",
+            "mode": "simple"
+          },
+          "header": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Pet registration"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "linkType": "single",
+          "introMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "listOfLinks": ""
+        }
+      },
+      "edges": [
+        {
+          "id": "4f60348a90594e838909631bf043da06",
+          "edgeType": "Edge",
+          "source": "d5b0177e61ce4348a281b855a402bf97",
+          "target": "945a3aca687c46638ee49e2fc51dc724",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "9ae9b4f032d44b2ba854a17b517ec4ab",
+          "edgeType": "Edge",
+          "source": "378fc5fe992b41eaa580871a90ffc3e5",
+          "target": "2b739c6ac4c9422a993f2c78fd2521d9",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "02408f684d4f411591c96776040d4fa3",
+          "edgeType": "Edge",
+          "source": "2b739c6ac4c9422a993f2c78fd2521d9",
+          "target": "543fdfdbadf647f79a2bd3cff96a10f9",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "6f2afbbf43d64d90a122058cc025cb2e",
+          "edgeType": "Branch",
+          "source": "543fdfdbadf647f79a2bd3cff96a10f9",
+          "target": "f2a2ba84902640bfa1199657d1763d91",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.how_may_we_help_you_=i want to adopt a pet",
+            "mode": "query"
+          },
+          "label": "I want to adopt a pet"
+        },
+        {
+          "id": "45b8ade2ede0433fba9f96ee11aa834f",
+          "edgeType": "Edge",
+          "source": "f2a2ba84902640bfa1199657d1763d91",
+          "target": "d5b0177e61ce4348a281b855a402bf97",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "c5ce24103097495c9c483887ed848529",
+          "edgeType": "Branch",
+          "source": "543fdfdbadf647f79a2bd3cff96a10f9",
+          "target": "398370a03c9744a4b191f3dae67bc28a",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.how_may_we_help_you_=i want to register a pet",
+            "mode": "query"
+          },
+          "label": "I want to register a pet"
+        },
+        {
+          "id": "9bff048294974d1e9e64a0b0dfa6b6eb",
+          "edgeType": "Edge",
+          "source": "398370a03c9744a4b191f3dae67bc28a",
+          "target": "13ab62bbd9ca4208af46ed138aca3fdb",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "71e3f280d9cc47f2b4ab820a391c61a4",
+          "edgeType": "Edge",
+          "source": "13ab62bbd9ca4208af46ed138aca3fdb",
+          "target": "945a3aca687c46638ee49e2fc51dc724",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "current-user": {
+      "category": "vaInputs",
+      "id": "current-user",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    },
+    "311988feee9944e4a930b0b4b27fb591": {
+      "id": "311988feee9944e4a930b0b4b27fb591",
+      "name": "how_may_we_help_you_",
+      "label": "How May We Help You?",
+      "varType": "choice",
+      "choices": [
+        {
+          "label": "i want to adopt a pet",
+          "value": "i want to adopt a pet"
+        },
+        {
+          "label": "i want to register a pet",
+          "value": "i want to register a pet",
+          "checked": true
+        }
+      ],
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>pet q</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>pet q</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 09:13:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8db731302f81701042b05d8b2799b6d5</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>pet q</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_cb_topic_8db731302f81701042b05d8b2799b6d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 15:18:30</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=8db731302f81701042b05d8b2799b6d5"/>
+</record_update>

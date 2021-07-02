@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>select_from_available_pets</name>
-        <order>700</order>
+        <order>900</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,7 +68,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-06-07 07:20:54</sys_created_on>
+        <sys_created_on>2021-06-26 16:30:56</sys_created_on>
         <sys_id>023e5e5e07203010d7bcfa4d7c1ed06b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Select from available pets</sys_name>
@@ -76,8 +76,8 @@
         <sys_policy/>
         <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
         <sys_update_name>item_option_new_023e5e5e07203010d7bcfa4d7c1ed06b</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-07 07:44:53</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-26 16:31:35</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

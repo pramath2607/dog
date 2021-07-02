@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <auto_resolution_enabled>false</auto_resolution_enabled>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"66e99baf693e432f914a3106213cfb79":{"id":"66e99baf693e432f914a3106213cfb79","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"55e2daf1135d43f283fda8cf55390db2":{"id":"55e2daf1135d43f283fda8cf55390db2","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"9058a15e68a64c748a3ccd215590485c","edgeType":"Edge","source":"66e99baf693e432f914a3106213cfb79","target":"55e2daf1135d43f283fda8cf55390db2","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases>pet ad</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>pet ad</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 13:27:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d158e5a02f85301042b05d8b2799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet ad</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_update_name>sys_cb_topic_d158e5a02f85301042b05d8b2799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 13:27:30</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=d158e5a02f85301042b05d8b2799b6cc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</application>
+        <file_path/>
+        <instance_id>4d968502db1f8c5091232f17d49619ca</instance_id>
+        <instance_name>dev102019</instance_name>
+        <name>sys_cb_topic_d158e5a02f85301042b05d8b2799b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><applicability_mode>query</applicability_mode><auto_resolution_enabled>false</auto_resolution_enabled><category/><channels/><connect_queue/><description/><flexible_conversation_switching>false</flexible_conversation_switching><graph>{"graph_api_version":"1.0.31","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"66e99baf693e432f914a3106213cfb79":{"id":"66e99baf693e432f914a3106213cfb79","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"55e2daf1135d43f283fda8cf55390db2":{"id":"55e2daf1135d43f283fda8cf55390db2","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"9058a15e68a64c748a3ccd215590485c","edgeType":"Edge","source":"66e99baf693e432f914a3106213cfb79","target":"55e2daf1135d43f283fda8cf55390db2","sourcePort":"","targetPort":""}]}}}</graph><key_phrases>pet ad</key_phrases><library>false</library><live_agent>false</live_agent><name>pet ad</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><roles/><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-26 13:27:30</sys_created_on><sys_domain>global</sys_domain><sys_id>d158e5a02f85301042b05d8b2799b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pet ad</sys_name><sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package><sys_policy/><sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope><sys_update_name>sys_cb_topic_d158e5a02f85301042b05d8b2799b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-26 13:27:30</sys_updated_on><triggerable_by_notification>false</triggerable_by_notification><type>STANDARD</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=d158e5a02f85301042b05d8b2799b6cc"/></record_update>]]></payload>
+        <payload_hash>1979969469</payload_hash>
+        <record_name>pet ad</record_name>
+        <reverted_from/>
+        <source>7b9d7c282fc1301042b05d8b2799b633</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 13:27:30</sys_created_on>
+        <sys_id>255825e02f85301042b05d8b2799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a4880fc7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 13:27:30</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>6d5825e06d853010b1a54caca26a53e2</update_guid>
+        <update_guid_history>6d5825e06d853010b1a54caca26a53e2:1979969469</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-26 15:50:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>23c39a83b7314cca9d3df0c01ba43a91</sys_id>
+        <sys_metadata>d158e5a02f85301042b05d8b2799b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pet ad</sys_name>
+        <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
+        <sys_scope_delete display_value="">b5993c0a2da347cd93d63165f03666e9</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_d158e5a02f85301042b05d8b2799b6cc</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_d158e5a02f85301042b05d8b2799b6cc">255825e02f85301042b05d8b2799b6e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-26 15:50:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

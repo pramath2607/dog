@@ -3,17 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fa0d08fc072470108f37f66c7c1ed00e</list_id>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-06-02 04:55:45</sys_created_on>
-            <sys_id>b60d08fc072470108f37f66c7c1ed00f</sys_id>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>f6d38f782f45701042b05d8b2799b6e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-06-02 04:55:45</sys_updated_on>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>breed</element>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>7ad38f782f45701042b05d8b2799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>adoption_center</element>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>fad38f782f45701042b05d8b2799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>age</element>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>7ed38f782f45701042b05d8b2799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>bio</element>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>fed38f782f45701042b05d8b2799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>picture</element>
+            <list_id display_value="x_563993_your_pet_pet" element="NULL" name="x_563993_your_pet_pet" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">32d38f782f45701042b05d8b2799b6e5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
+            <sys_id>72d38f782f45701042b05d8b2799b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -27,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-06-02 04:55:45</sys_created_on>
+            <sys_created_on>2021-06-27 14:45:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fa0d08fc072470108f37f66c7c1ed00e</sys_id>
+            <sys_id>32d38f782f45701042b05d8b2799b6e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_563993_your_pet_pet</sys_name>
             <sys_package display_value="Your Pet" source="x_563993_your_pet">99808a6c07ac30108f37f66c7c1ed02e</sys_package>
@@ -38,7 +113,7 @@
             <sys_scope display_value="Your Pet">99808a6c07ac30108f37f66c7c1ed02e</sys_scope>
             <sys_update_name>sys_ui_list_x_563993_your_pet_pet_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-06-02 04:55:45</sys_updated_on>
+            <sys_updated_on>2021-06-27 14:45:51</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
